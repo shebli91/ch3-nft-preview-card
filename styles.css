@@ -75,7 +75,9 @@ h6 {
 #__next {
   isolation: isolate;
 }
-
+.card {
+  margin-left: 28vw;
+}
 section {
   width: 375px;
   height: auto;
